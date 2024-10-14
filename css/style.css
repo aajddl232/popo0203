@@ -1,0 +1,29 @@
+
+.header .inner {
+    display: flex;
+    align-items: center;
+
+    height: 120px;
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.header h1 a {
+    display: block;
+    width: 118px;
+    height: 40px;
+    background-image: url(../img/main_logo.png);
+}
+
+.header .inner .gnb {
+    
+}
+
+.header .inner .gnb ul>li {
+    font-size: 16px;
+    font-weight: 700;
+    display: inline;
+
+    margin: 24px;
+   
+}
